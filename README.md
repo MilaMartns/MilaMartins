@@ -1,5 +1,5 @@
 # Me conheça
-:+1: Olá, meu nome é Mila Martins
+:+1: Olá, meu nome é **Mila Martins**
 
 Eu estou interessada em aprender a progamar novas linguagens
 
